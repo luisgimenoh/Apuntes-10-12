@@ -1,0 +1,34 @@
+p.aviso{
+    color: red;
+}
+
+span.aviso{
+    color: royalblue;
+}
+
+
+/*
+.aviso{
+    color: greenyellow;
+}
+
+*.aviso{
+    color: brown;
+}
+*/
+
+/*
+p[class]{
+    text-transform: uppercase;
+}
+*/
+p.name{
+    color: darkblue;
+}
+p.surname{
+    color: blueviolet;    
+}
+p[class="name surname"]{
+    text-transform: uppercase;
+
+}
